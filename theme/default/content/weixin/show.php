@@ -1,0 +1,1 @@
+<?php if(!defined('IN_SDCMS')) exit;?>{include file="mobile/content/weixin/show.php"}
